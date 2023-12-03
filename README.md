@@ -2,6 +2,12 @@
 
 Convert all your SVGs to a single TSX module
 
+<div>
+  <a href="https://www.npmjs.com/package/svg-to-tsx"><img alt='Version badge' src='https://img.shields.io/npm/v/svg-to-tsx'></a>
+  <a href="https://www.npmjs.com/package/svg-to-tsx"><img alt='Downloads badge' src='https://img.shields.io/npm/dt/svg-to-tsx'></a>
+  <a href="https://www.npmjs.com/package/svg-to-tsx"><img alt='License badge' src='https://img.shields.io/npm/l/svg-to-tsx'></a>
+</div>
+
 ## Usage
 
 1. Run `npm i svg-to-tsx`
